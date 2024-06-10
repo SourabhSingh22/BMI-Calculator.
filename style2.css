@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    background-color: skyblue;
+}
+h1{
+    padding: 12px;
+}
+form{
+    padding: 12px;
+}
+p{
+    margin: 12px;
+}
+input{
+    padding: 5px;
+}
+button{
+    font-size: 15px;
+    padding: 5px;
+    margin-left: 105px;
+    margin-bottom: 12px;
+}
+#weight-guide{
+    /* font-size: 15px; */
+    padding: 5px;
+    margin-left: 105px;
+    margin-bottom: 12px;
+}
